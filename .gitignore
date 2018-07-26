@@ -1,0 +1,20 @@
+.classpath
+.project
+.settings
+target
+*.class
+.idea
+*.iml
+.idea/
+.springBeans
+
+# Package Files #
+*.jar
+*.war
+*.ear 
+.DS_Store
+bin/
+*dependency-reduced-pom.xml
+*.xml.releaseBackup
+*.xml.tag
+release.properties
